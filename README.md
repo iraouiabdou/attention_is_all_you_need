@@ -54,7 +54,7 @@ All hyperparameters live in `config.py`. Checkpoints (model + optimizer + schedu
 - `translate.py`: checkpoint loading + beam-search translation CLI
 - `config.py`: config dict, path helpers, tokenizer builder, detokenization cleanup
 - `logs/`:  raw training logs for the pre-LN run and the two failed post-LN runs
-- `wmt14_transformer_colab.ipynb`: jupyter notebook used to train the model
+- `attn_is_all_u_need_notebook.ipynb`: jupyter notebook used to train the model
 
 
 
