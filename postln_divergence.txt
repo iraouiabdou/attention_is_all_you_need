@@ -1,0 +1,131 @@
+ POST NORM UNSTABLE TRAINING (run 1)
+
+junk_items_dropped: 29512 ; long_items_dropped: 3179
+junk_items_dropped: 3 ; long_items_dropped: 0
+Vocab 32000 | train 967309 val 2997
+Parameters: 60,485,632
+Epoch 00: 100%|██████████| 4936/4936 [05:09<00:00, 15.96it/s, avg=6.228, lr=7.62e-05]
+
+SOURCE:    Valentino has always been fascinated by the rarefied and distant world of the nobility.
+TARGET:    Valentino a toujours été fasciné par le monde fermé et à part de la noblesse.
+PREDICTED: Les deux deux deux années et les deux deux deux années ont été été de la période de la période de la population et de la population de la population de la population de la population.
+
+SOURCE:    How does the network operate?
+TARGET:    Comment fonctionne ce réseau?
+PREDICTED: • Les résultats de la recherche sont les services de la fonction publique.
+
+SOURCE:    Unexpected consequences
+TARGET:    Conséquences inespérées
+PREDICTED: • Les résultats de la santé sont les plus de la formation de la population.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.001
+Saved wmt_wmt14_weights/tmodel_00.pt
+Epoch 01: 100%|██████████| 4936/4936 [02:51<00:00, 28.78it/s, avg=5.198, lr=1.11e-04]
+
+SOURCE:    In some locations there is limited visibility due to mist, according to the local highway service.
+TARGET:    Il ressort des données du service régional d'entretien des routes qu'en raison du brouillard, la visibilité était par endroits réduite.
+PREDICTED: En outre, il est possible de se faire en sorte que les installations de transport soient en mesure de se faire en sorte que les installations soient en place.
+
+SOURCE:    Mr Obama also has a part in getting Israel to the table.
+TARGET:    M. Obama a également tout intérêt à ce qu'Israël accepte de négocier.
+PREDICTED: Il est également important de se faire en sorte que les pays en Europe soient en mesure de se faire en sorte que les pays sont en train de faire des recherches.
+
+SOURCE:    What do you consider your greatest achievement in the federation?
+TARGET:    Pour vous, quelle est votre plus grande réussite au sein de la fédération?
+PREDICTED: Comment vous avez-vous besoin de votre propre vie?
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.007
+Saved wmt_wmt14_weights/tmodel_01.pt
+Epoch 02: 100%|██████████| 4936/4936 [02:48<00:00, 29.25it/s, avg=4.877, lr=9.08e-05]
+
+SOURCE:    "We have not yet grown tired, the blood of our brothers has not yet been atoned for," stated the Egyptian media, quoting opposition politician Chaled Ali.
+TARGET:    "Nous ne sommes pas encore fatigués, le sang de nos frères n'est pas encore expié", a déclaré selon les médias égyptiens Khaled Ali, un homme politique et membre de l'opposition.
+PREDICTED: « Nous avons déjà fait remarquer que la plupart des médicaments ne sont pas des drogues, mais il n'y a pas de doute que la société de la Russie a été la « guerre » de la Russie.
+
+SOURCE:    For now that ruling is not being followed.
+TARGET:    Pour le moment, ce jugement n'est pas respecté.
+PREDICTED: En conséquence, il est clair que la décision n'est pas encore terminée.
+
+SOURCE:    However, Berlin subsequently abstained from voting.
+TARGET:    Mais elle a ensuite choisi l'abstention.
+PREDICTED: Toutefois, la France a également décidé de se rendre à la vote.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.010
+Saved wmt_wmt14_weights/tmodel_02.pt
+Epoch 03: 100%|██████████| 4936/4936 [02:48<00:00, 29.27it/s, avg=7.862, lr=7.86e-05]
+
+SOURCE:    "PSG is not FC Barcelona!"
+TARGET:    "Le PSG n'est pas le FC Barcelone!"
+PREDICTED:
+
+SOURCE:    Here you can marvel at an artist's impression.
+TARGET:    Cette illustration permet de l'admirer.
+PREDICTED: de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+
+SOURCE:    Using such scales, researchers have discovered that boys tend to be bored more often than girls, said Stephen Vodanovich, a professor of psychology at the University of West Florida, especially when it comes needing more, and a variety of, external stimulation.
+TARGET:    En utilisant une telle échelle, les chercheurs ont découvert que les garçons ont tendance à s'ennuyer plus souvent que les filles, a déclaré Stephen Vodanovich, un professeur de psychologie à la University of West Florida, et ont notamment besoin de stimulations nombreuses et variées.
+PREDICTED: de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.000
+Saved wmt_wmt14_weights/tmodel_03.pt
+Epoch 04:  29%|██▊       | 1415/4936 [00:50<02:27, 23.82it/s, avg=7.878, lr=7.60e-05]
+[run killed here -- loss stuck at ~7.9, model collapsed to single-token output]
+
+================================================================================
+POST NORM UNSTABLE TRAINING (run 2, with grad clipping + gn logging)
+
+Resolving data files: 100% 30/30 [00:00<00:00, 8923.42it/s]loading train: 100%|██████████| 1000000/1000000 [01:05<00:00, 15339.89pair/s]
+Resolving data files: 100% 30/30 [00:00<00:00, 8192.00it/s]junk_items_dropped: 29512 ; long_items_dropped: 3179
+junk_items_dropped: 3 ; long_items_dropped: 0
+Vocab 32000 | train 967309 val 2997
+Parameters: 60,485,632
+Epoch 00: 100%|██████████| 4936/4936 [04:35<00:00, 17.92it/s, avg=5.813, gn=1.20, lr=1.52e-04]
+
+SOURCE:    Plus the "Marteau squad" policemen who, since 2009, have apparently led the Montreal "sewer cartel" to soft pedal on the inflation of contracts...
+TARGET:    Plus les policiers de "l'escouade Marteau" qui, depuis 2009, auraient conduit le "cartel des égouts" de Montréal à mettre la pédale douce sur les gonflements de contrats...
+PREDICTED: « En général, le « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » » « « « « « « « « « « « « » » » » » » » » » » » » » »
+
+SOURCE:    It featured graduate Joe Cooke, former president of the Oxford University Conservative Association (OUCA), travelling in a Rolls-Royce, sporting a silver suit and silver-topped cane.
+TARGET:    On y découvrait notamment l'étudiant Joe Cooke, ancien président de la "Oxford University Conservative Association (OUCA) ", qui se déplace en Rolls-Royce, arbore un complet argenté et se déplace avec une canne à tête chromée.
+PREDICTED: Il est important de se faire en sorte que le Musée canadien de la rivière, le Musée canadien de la rivière, le Musée canadien de la rivière, le Musée canadien de la rivière, le Musée de la rivière, le Musée de la rivière, le Musée de la rivière.
+
+SOURCE:    As Mexico's incoming President Enrique Pena Nieto prepares to take office, the BBC's Will Grant looks at the challenges facing him and the mixed expectations of his population.
+TARGET:    Alors que le Président entrant Enrique Pena Nieto se prépare à prendre ses fonctions au Mexique, Will Grant, de la BBC, s'intéresse aux difficultés qui l'attendent et aux attentes du peuple, qui sont nombreuses.
+PREDICTED: En outre, le Conseil a été mis en place à la suite de la mise en œuvre de la société civile de la région de la Géorgie, le Conseil a été le plus grand nombre de membres de la guerre de la guerre.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.005
+Saved wmt_wmt14_weights/tmodel_00.pt
+Epoch 01: 100%|██████████| 4936/4936 [03:08<00:00, 26.12it/s, avg=4.872, gn=1.08, lr=2.22e-04]
+
+SOURCE:    I therefore recommend the test from age 50, or 40 if you have a direct relative who previously had prostate cancer.
+TARGET:    Je recommande donc le test à partir de 50 ans, ou à partir de 40 ans si on a un parent direct qui a déjà eu un cancer de la prostate.
+PREDICTED: Nous avons déterminé que la personne qui a reçu une maladie ou qui a été blessée à la suite de la grossesse.
+
+SOURCE:    The state is 4th in the nation in new and cumulative cases of AIDS and 13th in HIV.
+TARGET:    L'État est le 4e État du pays en nombre des nouveaux cas et cas cumulés de sida et 13e pour le nombre des malades du VIH.
+PREDICTED: Le nombre de personnes âgées et de personnes âgées est de 13 à 13 ans et le nombre de personnes qui sont en cours est passé.
+
+SOURCE:    "Nobody answered this question," says rocket and space industry veteran, Vakhtang Vachnadze.
+TARGET:    " Personne ne répondait à cette question ", explique Vakhtang Vatchnadzé, retraité du secteur des fusées et de l'espace.
+PREDICTED: « Je pense que ces deux modèles sont « V » et « V » et « V » sont des VBBBBB et VBB ».
+
+VALIDATION (greedy) over 253 sentences | BLEU 0.011
+Saved wmt_wmt14_weights/tmodel_01.pt
+Epoch 02: 100%|██████████| 4936/4936 [02:51<00:00, 28.83it/s, avg=8.113, gn=3404.06, lr=1.82e-04]
+
+SOURCE:    Anthony Orozco, 19, a community college student and soccer player in southeastern Colorado, is facing criminal charges for something that will soon be legal across this state: the possession of a few nuggets of marijuana and a pipe he used to smoke it.
+TARGET:    Anthony Orozco, 19 ans, étudiant dans une université et joueur de foot dans le Colorado, est inculpé pour quelque chose qui deviendra bientôt légal dans son état: la possession de boulettes de marijuana et d'une pipe utilisée pour les fumer.
+PREDICTED: de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+
+SOURCE:    However young and uneducated it may be.
+TARGET:    Même si elle peut paraître jeune et peu éduquée.
+PREDICTED: de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+
+SOURCE:    For the time being however their research is inconclusive.
+TARGET:    Leurs recherches ne sont toutefois pas concluantes pour l'instant.
+PREDICTED: de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.000
+Saved wmt_wmt14_weights/tmodel_02.pt
+Epoch 03:   5%|▍         | 234/4936 [00:08<02:18, 34.07it/s, avg=8.122, gn=3548.23, lr=1.80e-04]
+[run killed here -- gradient norm exploded to >3000, loss jumped from ~4.9 to ~8.1 and never recovered]

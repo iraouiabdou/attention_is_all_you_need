@@ -1,0 +1,164 @@
+junk_items_dropped: 29512 ; long_items_dropped: 3179
+junk_items_dropped: 3 ; long_items_dropped: 0
+Vocab 32000 | train 967309 val 2997
+Parameters: 60,487,680
+Epoch 00: 100%|██████████| 4936/4936 [04:46<00:00, 17.23it/s, avg=5.213, gn=0.99, lr=1.52e-04]
+
+SOURCE:    However, even though particle physics is a very strange world, it turns out that it also has a law of the same kind: the Pauli exclusion principle, which states that two particles cannot occupy the same space at the same time if they are in the same "quantum state" - this "state" consisting roughly of certain of their characteristics.
+TARGET:    Or même si la physique des particules est un monde bien étrange, il s'avère qu'elle a, elle aussi, une loi de ce genre: le principe d'exclusion de Pauli, qui stipule que deux particules ne peuvent pas occuper le même espace au même moment si elles sont dans le même "état quantique"-cet "état" consistant grosso modo en certaines de leurs caractéristiques.
+PREDICTED: Cependant, même si les physiatiques sont très très très très très très très très très très très très peu que les deux des « la loi » ne peuvent pas être prises par le même même si les deux « même si les deux caractéristiques de la même même personne ne sont pas en même même temps que les mêmes caractéristiques de la même même même même que les « même que les caractéristiques de la même personne ne sont pas en cause de leur même même que les caractéristiques de leur même que les caractéristiques de leur même même si les caractéristiques de leur même si elles sont les caractéristiques de la même même même si elles sont les caractéristiques de la même si elles sont les caractéristiques de la même si elles sont les caractéristiques de la même même si elles sont les caractéristiques de la même même même même même même même même même même même si elles sont les caractéristiques de la même que les caractéristiques de leur cause sont les caractéristiques de la même même même même même même même même si elles sont les caractéristiques de leur même même même même même même même même même même même même même même même même même même que les caractéristiques de leur même si elles sont les caractéristiques de leur même que les caractéristiques de la même que les caractéristiques de la même si elles sont les caractéristiques de leur même si elles sont les caractéristiques de la même que les caractéristiques de la même si elles sont les caractéristiques de la même si elles sont les caractéristiques de la même même même même même même même que les caractéristiques des caractéristiques des caractéristiques des caractéristiques des caractéristiques de la même même même même
+
+SOURCE:    However, Egyptians - and the world - are not entirely sure what the 61-year-old engineer who holds a Doctorate from the American University of Southern California, really wants to save.
+TARGET:    Cependant, les Égyptiens et le monde ne savent pas vraiment ce que veut sauver cet ingénieur de 61 ans, titulaire d'un doctorat de l'université américaine de Californie du Sud.
+PREDICTED: Cependant, l'Egype de l'Egype et du monde ne sont pas les plus élevés que les adultes qui sont les adultes qui ont une grande partie de l'Université de l'Université de l'Université de l'Université de l'Université de la région de l'Université de l'Université de l'Université de l'Université de l'Université de l'Université de l'Université de l'Université de l'Amérique.
+
+SOURCE:    Initially it was the private commitment of individuals to send a child to school and enable him/her to have one warm meal a day for a few euros per year.
+TARGET:    Au début, il ne s'agissait que de quelques personnes qui s'engageaient personnellement à verser quelques euros chaque année afin de pouvoir envoyer un enfant à l'école et de lui offrir un repas chaud par jour.
+PREDICTED: Le nombre de personnes ayant été mis en place un engagement de personnes à la maison et à la maison de leur enfant ont été prises pour une période de temps pour une année de 2 euros.
+
+VALIDATION (greedy) over 253 sentences | BLEU 0.016
+Saved wmt_wmt14_weights/tmodel_00.pt
+Epoch 01: 100%|██████████| 4936/4936 [02:54<00:00, 28.22it/s, avg=3.852, gn=0.63, lr=2.22e-04]
+
+SOURCE:    As was also the case under previous constitutions, under the draft judicature is justified on the "principles of Islamic law."
+TARGET:    Comme dans des constitutions précédentes, le projet prévoit que la jurisprudence repose sur "les principes du droit islamique".
+PREDICTED: En outre, le cas en vertu de la Constitution antérieures, sous le projet de juge juge judiciaire est justifié par le « droit Islamique.
+
+SOURCE:    These provide atmosphere, but most importantly, regulate the air humidity in the literary mountain range.
+TARGET:    Ces derniers créent une atmosphère, mais ils contribuent surtout au maintien du niveau idéal d'humidité de l'air de la montagne littéraire.
+PREDICTED: Ces installations fournissent une atmosphère, mais la plupart des éléments importants qui régissent l'humidité de l'air dans la gamme de montagnes littéraires.
+
+SOURCE:    The boy says that no-one has suggested anything to him or asked him for his home address or phone number.
+TARGET:    Selon le jeune garçon, personne ne lui a fait des avances ni ne lui a demandé son adresse ou son numéro de téléphone.
+PREDICTED: Le garant affirme qu'aucune personne n'a suggéré qu'il lui a demandé de lui faire l'adresse de son domicile ou de son numéro de téléphone.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.136
+Saved wmt_wmt14_weights/tmodel_01.pt
+Epoch 02: 100%|██████████| 4936/4936 [02:56<00:00, 27.95it/s, avg=3.518, gn=0.63, lr=1.82e-04]
+
+SOURCE:    During the uprising in Libya in March 2011, Germany likewise abstained from voting, when it came to establishing a no-fly zone.
+TARGET:    Lors de l'insurrection en Libye de mars 2011, l'Allemagne avait aussi choisi l'abstention lors du vote sur la mise en place d'une zone d'exclusion aérienne.
+PREDICTED: Au cours de la mise en place de Libya en mars 2011, l'Allemagne s'abstrait de voter, lorsqu'il s'est avéré d'établir une zone sans-femme.
+
+SOURCE:    The defense has said it plans to have Manning plead guilty to lesser offenses and fight other charges as being too extreme.
+TARGET:    La défense a déclaré que Manning envisage de plaider coupable des délits les moins graves et de se battre pour l'abandon d'autres charges jugées trop extrêmes.
+PREDICTED: La défense a dit qu'elle prévoit avoir une coupable de l'emportement à des dépressions et à une lutte contre d'autres accusations comme étant trop extrêmes.
+
+SOURCE:    Three models were developed (designated Meteor-1A, -1B, and -1C), which differed in the room available for scientific apparatus.
+TARGET:    Trois modèles (appelés Meteor-1A, -1B et -1C) furent développés; ils se distinguaient par les dimensions de l'espace réservé aux outils scientifiques.
+PREDICTED: Trois modèles ont été élaborés (consumétrie métropolitaine-1A, -1B, et -1C), qui diffèrent dans la salle disponible pour des appareils scientifiques.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.168
+Saved wmt_wmt14_weights/tmodel_02.pt
+Epoch 03: 100%|██████████| 4936/4936 [02:54<00:00, 28.25it/s, avg=3.337, gn=0.57, lr=1.57e-04]
+
+SOURCE:    I'm drawn to theatre, clothing, music, all genres except for literature.
+TARGET:    Je m'intéresse au théâtre, à la mode, à la musique, à tous les genres sauf aux mots.
+PREDICTED: Je suis attiré dans le théâtre, les vêtements, la musique, tous les genres, sauf pour la littérature.
+
+SOURCE:    But with time - as promised by the Federal Migration Service - tests will become mandatory for all non-residents.
+TARGET:    Cependant, avec le temps, promet le Service migratoire fédéral, les tests deviendront obligatoires pour tous les immigrés.
+PREDICTED: Mais avec le temps-comme le prévoit le Service fédéral des migrations-les essais seront obligatoires pour tous les non-résidents.
+
+SOURCE:    Of course, it would be good to have eight mega pixels with 1000 k/s speed.
+TARGET:    Il serait évidemment bien d'obtenir environ 8 mégapixels avec une vitesse de 1000 c/s.
+PREDICTED: Bien sûr, il serait bon de posséder huit pixels de mega avec 1000 k/s de vitesse.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.184
+Saved wmt_wmt14_weights/tmodel_03.pt
+Epoch 04: 100%|██████████| 4936/4936 [02:54<00:00, 28.24it/s, avg=3.236, gn=0.69, lr=1.41e-04]
+
+SOURCE:    The issue is the first of four identical issues which are offering to repay interest every 28 days.
+TARGET:    Cette émission de titres est la premières des quatre émissions pour lesquelles ils proposent de payer des intérêts tous les 28 jours.
+PREDICTED: La question est la première des quatre questions identiques qui offrent un remboursement tous les 28 jours.
+
+SOURCE:    Close to a thousand web sites accept bitcoins as donations or means of payment.
+TARGET:    Un petit millier de sites Web acceptent les bitcoins comme dons ou comme moyen de paiement.
+PREDICTED: Près de mille sites Web acceptent des morceaux de dons ou de moyens de paiement.
+
+SOURCE:    Properly.
+TARGET:    Régulièrement.
+PREDICTED: Tout à fait approprié.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.189
+Saved wmt_wmt14_weights/tmodel_04.pt
+Epoch 05: 100%|██████████| 4936/4936 [02:56<00:00, 28.04it/s, avg=3.175, gn=0.62, lr=1.28e-04]
+
+SOURCE:    "How do Tories have sex?" one asked.
+TARGET:    "Comment les Tories font-ils l'amour?" a demandé l'un d'entre eux.
+PREDICTED: « Comment les Tories ont-ils un sexe? »
+
+SOURCE:    The Argentine model Valeria Mazza also recalls the couturier's charisma.
+TARGET:    La mannequin argentine, Valeria Mazza, n'a pas non plus oublié le charisme du couturier.
+PREDICTED: Le modèle d'Argentine Valeria Mazza rappelle également le charisme du couturier.
+
+SOURCE:    The mirror of the Southern African Large Telescope in South Africa is segmented - to reduce costs.
+TARGET:    Le miroir du Southern African Large Telescope en Afrique du Sud a été segmenté afin de faire des économies.
+PREDICTED: Le miroir du télescope sud-africain en Afrique du Sud est segmenté-pour réduire les coûts.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.191
+Saved wmt_wmt14_weights/tmodel_05.pt
+Epoch 06: 100%|██████████| 4936/4936 [03:12<00:00, 25.66it/s, avg=3.117, gn=0.65, lr=1.19e-04]
+
+SOURCE:    Their takeover of the country had been perceived then as a sort of liberation, a return to safety.
+TARGET:    Leur prise de contrôle du pays avait alors été perçue comme une sorte de libération, un retour à la sécurité.
+PREDICTED: Leur prise en charge du pays a été perçue alors comme une sorte de libération, un retour à la sécurité.
+
+SOURCE:    To become a top European club, Paris needs to win titles and keep it up over time.
+TARGET:    Pour devenir un grand club européen, Paris a besoin de remporter des titres et de s'inscrire dans la durée.
+PREDICTED: Pour devenir un club européen de haut niveau, Paris doit obtenir des titres et le conserver à l'époque.
+
+SOURCE:    Tougher laws are being considered in Britain, New Zealand, South Africa and India.
+TARGET:    Des lois plus sévères sont actuellement à l'étude en Angleterre, Nouvelle-Zélande, Afrique du Sud et Inde.
+PREDICTED: Les lois visant à faire face à des conflits sont en vigueur en Grande-Bretagne, en Nouvelle-Zélande, en Afrique du Sud et en Inde.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.198
+Saved wmt_wmt14_weights/tmodel_06.pt
+Epoch 07: 100%|██████████| 4936/4936 [02:56<00:00, 27.89it/s, avg=3.080, gn=0.52, lr=1.11e-04]
+
+SOURCE:    Before the 2006 elections, no US State required voters to show a photo ID card.
+TARGET:    Avant les élections de 2006, aucun État américain n'exigeait des électeurs de présenter une carte d'identité avec photo.
+PREDICTED: Avant les élections de 2006, aucun électeur américain n'a exigé de présenter une carte d'identité de photo.
+
+SOURCE:    More stable field
+TARGET:    Champ plus stable
+PREDICTED: Plus stable
+
+SOURCE:    How does the network operate?
+TARGET:    Comment fonctionne ce réseau?
+PREDICTED: Comment fonctionne le réseau?
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.194
+Saved wmt_wmt14_weights/tmodel_07.pt
+Epoch 08: 100%|██████████| 4936/4936 [02:54<00:00, 28.24it/s, avg=3.022, gn=0.74, lr=1.05e-04]
+
+SOURCE:    Thus Gucci simply becomes Lu-Gucci, Prada-Kny is registered in place of Prada.
+TARGET:    Ainsi, au lieu de Gucci, on enregistre Lu-Gucci, et au lieu de Prada, on enregistre Prada-Kny.
+PREDICTED: Ainsi, Gucci devient tout simplement Lu-Gucci, Prada-Kny, en place de Prada.
+
+SOURCE:    The telescope is thought to have been invented in 1608 by Hans Lipperhey - even before Galileo Galilei used the device to observe the stars one year later.
+TARGET:    Le télescope aurait été inventé en 1608 par Hans Lipperhey, avant que Galilée ne l'utilisât un an plus tard pour observer les étoiles.
+PREDICTED: Le télescope a été inventé en 1608 par Hans Lipperhey-même avant Galileo Galilei pour observer les étoiles un an plus tard.
+
+SOURCE:    But then everything is expensive - a small glass of beer or a sandwich knock you back £9 ($14) each.
+TARGET:    Mais tout est cher-une petite pinte de bière ou un sandwich vous coûteront 10 € chacun.
+PREDICTED: Mais tout est coûteux, mais un petit verre de bière ou un couteau de sandwich, vous reviendrait à la hauteur de 9 $ (14 $) chacun.
+
+VALIDATION (greedy) over 392 sentences | BLEU 0.205
+Saved wmt_wmt14_weights/tmodel_08.pt
+Epoch 09: 100%|██████████| 4936/4936 [02:56<00:00, 28.04it/s, avg=3.003, gn=0.67, lr=9.95e-05]
+
+SOURCE:    This is a file hashing phase, i.e. the transformation of a large file into a shorter and unique digital imprint.
+TARGET:    Il s'agit d'une phase de hachage de fichier, c'est-à-dire de transformation d'un gros fichier en une empreinte numérique plus courte et unique.
+PREDICTED: Il s’agit d’une phase de hashing des fichiers, c’est-à-dire la transformation d’un grand fichier en une imprinte numérique plus courte et unique.
+
+SOURCE:    But it was his masterful interpretation of delightfully detestable JR that led to Hagman reaching his peak of stardom.
+TARGET:    Mais ce fut grâce à sa magistrale interprétation du délicieusement détestable J.R. que Larry Hagman connut son plus grand succès.
+PREDICTED: Mais c'est son interprétation maîtresse de JR très détrempable qui a conduit à Hagman à atteindre son pic d'étoile.
+
+SOURCE:    The only reason you have so many people of Mexican ancestry living in cities like Los Angeles, Las Vegas, Phoenix, Denver or San Antonio is because, at some point in our family tree, there was a person, maybe a parent or grandparent, who was shut out from opportunity in Mexico and had to go north.
+TARGET:    La seule raison qui explique le grand nombre d'ancêtres mexicains dans des villes comme Los Angeles, Las Vegas, Phoenix, Denver ou San Antonio, est qu'à un moment donné, dans notre arbre généalogique, une personne, peut-être un parent ou un grand-parent, n'a trouvé aucune opportunité au Mexique et a dû aller dans le Nord.
+PREDICTED: La seule raison pour laquelle vous avez tant de gens d'ascendance mexicaine vivant dans des villes comme Los Angeles, Las Vegas, Phoenix, Denver ou San Antonio est parce qu'à un moment donné dans notre arbre familial, il y a une personne, peut-être un parent ou une grandparent, qui a été fermé de l'occasion au Mexique et qui a dû aller au nord.
+
+VALIDATION (greedy) over 253 sentences | BLEU 0.184
+Saved wmt_wmt14_weights/tmodel_09.pt
