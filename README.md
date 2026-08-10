@@ -37,7 +37,7 @@ Sample output from the final checkpoint:
 ```bash
 pip install -r requirements.txt
 
-# train (downloads + tokenizes 1M WMT14 pairs on first run, CUDA required)
+# train (downloads + tokenizes 4M WMT14 pairs on first run, CUDA required)
 python train.py
 
 # translate with the latest checkpoint (beam search)
