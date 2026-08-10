@@ -22,7 +22,7 @@ The model achieved a Greedy-decode BLEU of 27.3 on a held-out subset, measured w
 Beam search (beam 4, GNMT length penalty α=0.6) is used at inference time.
 Sample output from the final checkpoint:
 
-> **EN:** I'm Abdou, a student at UofT with a strong interest in computer science, especially AI and its use in science. I'm fascinated by the idea that we can build
+> **EN (input):** I'm Abdou, a student at UofT with a strong interest in computer science, especially AI and its use in science. I'm fascinated by the idea that we can build
 > intelligent systems that help scientists analyze data, test ideas, and discover things that are revolutionanry. I want to better understand how these systems work and how > we can make them more useful and reliable. My goal is to develop the skills needed to build AI systems that can help accelerate research and contribute to solving
 > important scientific problems.
 >
